@@ -12,8 +12,9 @@
 		</div>
 
 	<div class="anak">	
-		<h2>MUHAMMAD MUSYAHYA</h2>
-		<H2>16.01.55.0056</H2>
+		<h2>MUHAMMAD MUSYAHYA - 16.01.55.0056</h2>
+		<H2>REVA ADHESTIRA - 16.01.55.0022</H2>
+		<h2>NADILA DARA - 16.01.55.0004</h2>
 	</div>
 	
 		<ul>
